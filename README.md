@@ -156,13 +156,6 @@ Created Pivot Tables to analyze:
 * `netflix_dashboard.xlsx` → Interactive Excel dashboard
 * `README.md` → This documentation
 
----
-
-## **🚀 How to Use**
-
-1. Download the Excel dashboard file.
-2. Enable editing & macros if prompted.
-3. Use slicers to filter by **type**, **rating**, and **country** for interactive insights.
 
 ---
 
