@@ -1,7 +1,7 @@
 
 #  Netflix Movies and TV Shows Analysis
 
-## ** Aim**
+## ** Aim **
 
 The aim of this project is to analyze the Netflix dataset to uncover **content trends, patterns, and insights** using Excel's **Pivot Tables, Charts, and Dashboard features**.
 The project focuses on answering key business questions such as:
@@ -12,8 +12,7 @@ The project focuses on answering key business questions such as:
 * How has content addition changed over time?
 * Are there seasonal trends in content releases?
 
----
-
+-Aim 
 ## **📂 Dataset**
 
 * **Source:** [Netflix Titles Dataset (Kaggle)](https://www.kaggle.com/shivamb/netflix-shows)
@@ -35,7 +34,7 @@ The project focuses on answering key business questions such as:
 
 ---
 
-## ** Process**
+## ** Process **
 
 ### **1. Data Cleaning**
 
