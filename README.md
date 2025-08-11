@@ -1,7 +1,7 @@
 
-# 📊 Netflix Movies and TV Shows Analysis
+#  Netflix Movies and TV Shows Analysis
 
-## **📌 Aim**
+## ** Aim**
 
 The aim of this project is to analyze the Netflix dataset to uncover **content trends, patterns, and insights** using Excel's **Pivot Tables, Charts, and Dashboard features**.
 The project focuses on answering key business questions such as:
@@ -35,7 +35,7 @@ The project focuses on answering key business questions such as:
 
 ---
 
-## **⚙️ Process**
+## ** Process**
 
 ### **1. Data Cleaning**
 
@@ -150,7 +150,7 @@ Created Pivot Tables to analyze:
 
 ---
 
-## **📎 Files in This Repository**
+## ** Files in This Repository**
 
 * `netflix_titles_cleaned.xlsx` → Cleaned dataset
 * `netflix_dashboard.xlsx` → Interactive Excel dashboard
@@ -159,7 +159,7 @@ Created Pivot Tables to analyze:
 
 ---
 
-## **📌 Conclusion**
+## ** Conclusion**
 
 This analysis shows that **Netflix heavily invests in movies over TV shows**, with a strong emphasis on mature content and dominant contributions from the United States and India. Seasonal and yearly patterns provide opportunities for better release planning.
 
