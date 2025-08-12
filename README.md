@@ -89,9 +89,9 @@ Overall Content Overview
 
 * TV Shows: 2,670 (30%)
 
-Netflix offers more than twice as many movies as TV shows.
+* Netflix offers more than twice as many movies as TV shows.
 
-Content Growth Trends
+ * Content Growth Trends
 Titles Added Over Time show a growth peak around 2019–2020, followed by a decline post-2020.
 
 This suggests a possible shift in Netflix’s content strategy or reduced licensing/new productions after COVID-19 pandemic peaks.
@@ -129,8 +129,8 @@ TV Shows: Average ~1–2 seasons
 
 This reflects standard streaming content norms.
 
-Recommendations
-Balance Content Mix
+## Recommendations
+ Balance Content Mix
 
 Increase TV show production/acquisition to balance the current 70% movies vs. 30% TV shows split. TV shows often drive longer subscription retention.
 
