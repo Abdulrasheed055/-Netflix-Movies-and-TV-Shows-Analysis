@@ -96,7 +96,7 @@ Titles Added Over Time show a growth peak around 2019–2020, followed by a decl
 
 This suggests a possible shift in Netflix’s content strategy or reduced licensing/new productions after COVID-19 pandemic peaks.
 
-## ** Top Contributing Countries **
+##  Top Contributing Countries 
 United States: 3,202 titles (largest contributor)
 
 India: 1,004 titles
@@ -105,12 +105,12 @@ UK & Unknown origins make up the rest of the top four.
 
 This indicates strong dominance of US-based content, but also growing representation from India.
 
-## ** Popular Genres **
+## Popular Genres 
 Top genres include Dramas, Comedies, Action & Adventure, Documentaries, and International TV Shows.
 
 Dramas lead with 1,592 titles, suggesting strong viewer demand.
 
-## ** Ratings Distribution **
+##  Ratings Distribution 
 TV-MA (Mature Audience) content forms 46% of titles, followed by TV-14 (31%).
 This indicates Netflix leans heavily toward adult and teenage audience content.
 
