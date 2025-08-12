@@ -82,67 +82,80 @@ Created Pivot Tables to analyze:
 
 ## **📈 Key Insights**
 
-1. **Content Mix**
+Overall Content Overview
+Total Titles: 8,780
 
-   * **Movies:** 70% (6,110 titles)
-   * **TV Shows:** 30% (2,670 titles)
+Movies: 6,110 (70%)
 
-2. **Top Countries**
+TV Shows: 2,670 (30%)
 
-   * 🇺🇸 United States: 3,202 titles
-   * 🇮🇳 India: 1,004 titles
-   * 🇬🇧 UK: 628 titles
-   * Unknown origins: 830 titles
+Netflix offers more than twice as many movies as TV shows.
 
-3. **Genres**
+Content Growth Trends
+Titles Added Over Time show a growth peak around 2019–2020, followed by a decline post-2020.
 
-   * Top 3: Dramas, Comedies, Action & Adventure.
-   * Dramas dominate with 1,592 titles.
+This suggests a possible shift in Netflix’s content strategy or reduced licensing/new productions after COVID-19 pandemic peaks.
 
-4. **Ratings**
+Top Contributing Countries
+United States: 3,202 titles (largest contributor)
 
-   * TV-MA (Mature Audience) dominates at 46% of all titles.
+India: 1,004 titles
 
-5. **Duration**
+UK & Unknown origins make up the rest of the top four.
 
-   * Average Movie length: \~100 mins
-   * Average TV Show length: \~2 seasons
+This indicates strong dominance of US-based content, but also growing representation from India.
 
-6. **Trends**
+Popular Genres
+Top genres include Dramas, Comedies, Action & Adventure, Documentaries, and International TV Shows.
 
-   * Peak content additions in 2018–2020.
-   * Decline in new content after 2020.
+Dramas lead with 1,592 titles, suggesting strong viewer demand.
 
-7. **Seasonality**
+Ratings Distribution
+TV-MA (Mature Audience) content forms 46% of titles, followed by TV-14 (31%).
 
-   * December has slightly higher content additions, suggesting holiday release strategies.
+This indicates Netflix leans heavily toward adult and teenage audience content.
 
----
+Actors with Most Titles
+Shah Rukh Khan tops with 26 titles, followed by Akshay Kumar (23).
 
-## **💡 Recommendations**
+Strong presence of Bollywood actors aligns with India’s growing role in Netflix’s library.
 
-1. **Fill Missing Data**
+Monthly Additions
+The recent months show a slight downward trend in Monthly Content Additions, which may indicate slower expansion.
 
-   * Reduce “Unknown” values for better decision-making.
+Average Duration
+Movies: ~100 minutes
 
-2. **Balanced Content Portfolio**
+TV Shows: Average ~1–2 seasons
 
-   * Introduce more family-friendly content to diversify audience reach.
+This reflects standard streaming content norms.
 
-3. **Leverage Seasonal Peaks**
+Recommendations
+Balance Content Mix
 
-   * Use December’s higher engagement for blockbuster releases.
+Increase TV show production/acquisition to balance the current 70% movies vs. 30% TV shows split. TV shows often drive longer subscription retention.
 
-4. **Expand Genre Diversity**
+Global Content Strategy
 
-   * Add more niche genres to attract specific audiences.
+Continue expanding Indian and international content to appeal to diverse audiences.
 
-5. **Country Focus**
+Explore more African, Middle Eastern, and Latin American productions to tap into emerging markets.
 
-   * Explore opportunities in emerging content-producing countries.
+Genre Expansion
 
----
+Documentaries and International TV Shows are growing niches—invest more here to capture loyal, niche audiences.
 
+Target Younger Demographics
+
+With 46% content being TV-MA, there’s room to produce more family-friendly and kids’ content to broaden audience base.
+
+Monitor Release Trends
+
+Investigate why title additions dropped after 2020—this could be due to licensing costs, competition, or market saturation. Adjust release calendar to maintain engagement.
+
+Leverage Star Power
+
+Promote content with high-appearance actors (e.g., Shah Rukh Khan, Akshay Kumar) in marketing campaigns for regions with large fan bases.
 ## **🛠 Tools Used**
 
 * Microsoft Excel (Pivot Tables, Pivot Charts, Power Query, Dashboard)
