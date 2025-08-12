@@ -12,7 +12,7 @@ The project focuses on answering key business questions such as:
 * How has content addition changed over time?
 * Are there seasonal trends in content releases?
 
--Aim 
+
 ## **📂 Dataset**
 
 * **Source:** [Netflix Titles Dataset (Kaggle)](https://www.kaggle.com/shivamb/netflix-shows)
@@ -83,11 +83,11 @@ Created Pivot Tables to analyze:
 ## **📈 Key Insights**
 
 Overall Content Overview
-Total Titles: 8,780
+* Total Titles: 8,780
 
-Movies: 6,110 (70%)
+* Movies: 6,110 (70%)
 
-TV Shows: 2,670 (30%)
+* TV Shows: 2,670 (30%)
 
 Netflix offers more than twice as many movies as TV shows.
 
@@ -96,7 +96,7 @@ Titles Added Over Time show a growth peak around 2019–2020, followed by a decl
 
 This suggests a possible shift in Netflix’s content strategy or reduced licensing/new productions after COVID-19 pandemic peaks.
 
-Top Contributing Countries
+## ** Top Contributing Countries **
 United States: 3,202 titles (largest contributor)
 
 India: 1,004 titles
@@ -105,14 +105,13 @@ UK & Unknown origins make up the rest of the top four.
 
 This indicates strong dominance of US-based content, but also growing representation from India.
 
-Popular Genres
+## ** Popular Genres **
 Top genres include Dramas, Comedies, Action & Adventure, Documentaries, and International TV Shows.
 
 Dramas lead with 1,592 titles, suggesting strong viewer demand.
 
-Ratings Distribution
+## ** Ratings Distribution **
 TV-MA (Mature Audience) content forms 46% of titles, followed by TV-14 (31%).
-
 This indicates Netflix leans heavily toward adult and teenage audience content.
 
 Actors with Most Titles
@@ -145,11 +144,11 @@ Genre Expansion
 
 Documentaries and International TV Shows are growing niches—invest more here to capture loyal, niche audiences.
 
-Target Younger Demographics
+## Target Younger Demographics
 
 With 46% content being TV-MA, there’s room to produce more family-friendly and kids’ content to broaden audience base.
 
-Monitor Release Trends
+## Monitor Release Trends
 
 Investigate why title additions dropped after 2020—this could be due to licensing costs, competition, or market saturation. Adjust release calendar to maintain engagement.
 
