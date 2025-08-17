@@ -111,6 +111,7 @@ Top genres include Dramas, Comedies, Action & Adventure, Documentaries, and Inte
 Dramas lead with 1,592 titles, suggesting strong viewer demand.
 
 ##  Ratings Distribution 
+
 TV-MA (Mature Audience) content forms 46% of titles, followed by TV-14 (31%).
 This indicates Netflix leans heavily toward adult and teenage audience content.
 
@@ -161,7 +162,7 @@ Promote content with high-appearance actors (e.g., Shah Rukh Khan, Akshay Kumar)
 
 ---
 
-## ** Files in This Repository**
+##  Files in This Repository
 
 * `netflix_titles_cleaned.xlsx` → Cleaned dataset
 * `netflix_dashboard.xlsx` → Interactive Excel dashboard
@@ -170,7 +171,7 @@ Promote content with high-appearance actors (e.g., Shah Rukh Khan, Akshay Kumar)
 
 ---
 
-## ** Conclusion**
+##  Conclusion
 
 This analysis shows that **Netflix heavily invests in movies over TV shows**, with a strong emphasis on mature content and dominant contributions from the United States and India. Seasonal and yearly patterns provide opportunities for better release planning.
 
