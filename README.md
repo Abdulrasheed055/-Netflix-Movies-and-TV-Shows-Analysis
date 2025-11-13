@@ -35,6 +35,7 @@ The project focuses on answering key business questions such as:
 ---
 ##  before cleaning
 ![data](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/before%20cleaning%20Netflix.png)
+
  ![dataset](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/beforecleaning%20netflix2.png)
 
 ##  Process 
@@ -72,9 +73,10 @@ Created Pivot Tables to analyze:
 8. Monthly content additions
 
 
-## AFter cleaing
+## AFter cleaning
 ![dataset](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/After%20cleaning%20Netflix%202.png)
-![dataset](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/After%20cleaning%20Netflix%202.png)
+![dataset](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/After%20cleaning%20netflix1.png)
+
 ### **4. Visualization & Dashboard**
 
 * Combined all pivot tables with relevant charts:
@@ -86,8 +88,9 @@ Created Pivot Tables to analyze:
 * Designed a **clean, professional dashboard** in Excel.
 
 ---
-## dashboard
+## Dashboard
 ![Dashboard](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/Dashboard.jpg)
+
 ## **📈 Key Insights**
 
 Overall Content Overview
@@ -175,7 +178,6 @@ Promote content with high-appearance actors (e.g., Shah Rukh Khan, Akshay Kumar)
 * `netflix_titles_cleaned.xlsx` → Cleaned dataset
 * `netflix_dashboard.xlsx` → Interactive Excel dashboard
 * `README.md` → This documentation
-
 
 ---
 
