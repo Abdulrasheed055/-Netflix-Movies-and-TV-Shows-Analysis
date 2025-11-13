@@ -33,6 +33,9 @@ The project focuses on answering key business questions such as:
   * description
 
 ---
+##  before cleaning
+![data](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/before%20cleaning%20Netflix.png)
+ ![dataset](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/beforecleaning%20netflix2.png)
 
 ##  Process 
 
@@ -68,6 +71,10 @@ Created Pivot Tables to analyze:
 7. Average duration of Movies vs TV Shows
 8. Monthly content additions
 
+
+## AFter cleaing
+![dataset](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/After%20cleaning%20Netflix%202.png)
+![dataset](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/After%20cleaning%20Netflix%202.png)
 ### **4. Visualization & Dashboard**
 
 * Combined all pivot tables with relevant charts:
@@ -79,7 +86,8 @@ Created Pivot Tables to analyze:
 * Designed a **clean, professional dashboard** in Excel.
 
 ---
-
+## dashboard
+![Dashboard](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/blob/main/Dashboard.jpg)
 ## **📈 Key Insights**
 
 Overall Content Overview
